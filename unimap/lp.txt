@@ -865,7 +865,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "@id": "https://portal.unimap.edu.my/",
       "author": { "@type": "Person", "name": "TOGEL ONLINE" },
       "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
-      "reviewBody": “Saya tertarik dengan LANDAKTOTO karena informasi mengenai Slot88 dan agen slot online disusun cukup rapi. Navigasinya juga tidak rumit sehingga mudah menemukan bagian yang ingin saya baca.”,
+      "reviewBody": “
       "itemReviewed": { "@id": "https://portal.unimap.edu.my/" }
     },
 
@@ -874,7 +874,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "@id": "https://portal.unimap.edu.my/",
       "author": { "@type": "Person", "name": "BANDAR TOGEL" },
       "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
-      "reviewBody": "ALEXISSaya main rutin tiap minggu di LANDAKTOTO. Diskon hingga 29% untuk pasaran favorit bikin masang angka lebih hemat. Proses withdraw biasanya instan, jadi nyaman kalau lagi butuh cairkan kemenangan. Nilai plus adalah layanan 24 jam dan promo referral yang sering keluar. Overall pengalaman stabil dan ramah pemain.",
+      "reviewBody": "landatata main rutin tiap minggu di LANDAKTOTO. Diskon hingga 29% untuk pasaran favorit bikin masang angka lebih hemat. Proses withdraw biasanya instan, jadi nyaman kalau lagi butuh cairkan kemenangan. Nilai plus adalah layanan 24 jam dan promo referral yang sering keluar. Overall pengalaman stabil dan ramah pemain.",
       "itemReviewed": { "@id": "https://portal.unimap.edu.my/" }
     },
 
